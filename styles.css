@@ -1,0 +1,206 @@
+h1{
+    text-align: center;
+    background-color: tomato;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    text-align: center;
+    background-color: rgb(0, 120, 255);
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    background-color: #f1eb90;
+}
+th{
+    background-color: coral;
+}
+#food{
+    text-align: center;
+    background-color: #f1eb90;
+    color: #000000;
+}
+#burger{
+    color: #000000;
+    background-color: #f1eb90;
+}
+#z{
+    background-color: #f1eb90;
+}
+button{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+#break{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+#rice{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+#snacks{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+#pizza{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+#deals{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #000000;
+}
+h2{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+a{
+    background-color: #f1eb90;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: tomato;
+    font-size: large;
+}
+a{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: tomato;
+    font-size: large;
+}
+#foods{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#burgers{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#barbq{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#rices{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#pizzas{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#snack{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#deal{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#copy{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#menu{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#pulses{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#breakfast{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#dairy{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#snaks{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#meat{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#fresh{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+form{
+    background-color: #f1eb90;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #000000;
+}
+#vf{
+    background-color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+#F{
+    background-color: #f1eb90;
+    color: #000000;
+}
+p{
+    background-color: #f1eb90;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#submit{
+    background-color: tomato;
+    color: #ffffff;
+}
+#h2{
+    background-color: #ffffff;
+    color: #000000;
+}
+#reset{
+    background-color: #f3b664;
+    color: #000000;
+}
